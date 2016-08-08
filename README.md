@@ -1,3 +1,5 @@
+# Please go to   [SOURCE REPOSITORY](https://github.com/astaxie/gopkg)
+# This REPOSITORY is only for personal  to lean Golang
 # 项目发起的目的
 由于目前golang的手册里面针对函数的例子太少了，很多时候不知道怎么使用，好多人都是看源代码才明白怎么用，这个给我们快速开发golang带来了障碍，所以我想发起这样一个项目，通过对pkg里面的针对每个函数写代码例子
 

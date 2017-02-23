@@ -1,4 +1,5 @@
 # func Fscan(r io.Reader, a ...interface{}) (n int, err error)
+> a ...interface{} 不定参数？
 
 参数列表
 
